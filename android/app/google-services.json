@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "323115104602",
+    "project_id": "whisperwaves-bbc35",
+    "storage_bucket": "whisperwaves-bbc35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323115104602:android:b99f0cbecfea09d4be1b63",
+        "android_client_info": {
+          "package_name": "com.bananakin.chat_smth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfufyeip-XwLMCNkAUO95bIwSuypMtG5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323115104602:android:883c130164c1a547be1b63",
+        "android_client_info": {
+          "package_name": "com.example.whisperwaves"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfufyeip-XwLMCNkAUO95bIwSuypMtG5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
